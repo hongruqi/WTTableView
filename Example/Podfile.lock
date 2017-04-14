@@ -1,0 +1,16 @@
+PODS:
+  - WTTableView (0.1.0)
+
+DEPENDENCIES:
+  - WTTableView (from `../`)
+
+EXTERNAL SOURCES:
+  WTTableView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WTTableView: e7b416028d4376ec041ebd29c7cf4b8ea2088f9a
+
+PODFILE CHECKSUM: 48fc8b487790c4f9a767896453f30c72e95d6240
+
+COCOAPODS: 1.2.0
